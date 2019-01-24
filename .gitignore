@@ -1,0 +1,25 @@
+.idea
+
+*.iml
+*.iws
+
+target/
+bin/logs
+
+# Mac
+.DS_Store
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+dependency-reduced-pom.xml
+puma-analysis/grobid-analyser/grobid-home
+
+puma-analysis/src/test/resources/private/
+puma-importer-manager/src/test/resources/private/

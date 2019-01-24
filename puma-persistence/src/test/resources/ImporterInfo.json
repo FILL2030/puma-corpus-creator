@@ -1,0 +1,35 @@
+{
+	"version": "1.1",
+	"importerName": "wos_importer",
+	"importerShortName": "wos",
+	"metaDataAnalysisState": {
+		"doi": "TO_ANALYSE",
+		"title": "CLOSED",
+		"date": "CLOSED",
+		"person": "TO_ANALYSE",
+		"laboratory": "TO_ANALYSE",
+		"instrument": "TO_ANALYSE",
+		"experimentTechnique": "TO_ANALYSE",
+		"keyword": "ANALYSED",
+		"formula": "TO_ANALYSE",
+		"reference": "TO_ANALYSE",
+		"citation": "TO_ANALYSE",
+		"researchDomain": "CLOSED",
+		"journal": "CLOSED",
+		"publisher": "CLOSED",
+		"extractedImage": "TO_ANALYSE",
+		"fullText": "TO_ANALYSE",
+		"abstract": "CLOSED"
+	},
+	"supportedOperations": {
+		"getAll": false
+	},
+	"supportedQueryFilter": {
+		"year": true,
+		"month": true,
+		"search": true,
+		"ids": true,
+		"start": false
+	}
+}
+
