@@ -22,7 +22,7 @@
     <parent>
         <artifactId>puma-corpus-creator</artifactId>
         <groupId>eu.ill</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -33,25 +33,25 @@
         <dependency>
             <groupId>eu.ill</groupId>
             <artifactId>puma-core</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
 
         <dependency>
             <groupId>eu.ill</groupId>
             <artifactId>puma-persistence</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
 
         <dependency>
             <groupId>eu.ill</groupId>
             <artifactId>puma-task-manager</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
 
         <dependency>
             <groupId>eu.ill</groupId>
             <artifactId>puma-importer-manager</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.0</version>
             <scope>test</scope>
         </dependency>
 
